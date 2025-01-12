@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche_991ii_gt3_cup",
+  "CarName": "Porsche 911 GT3 Cup",
+  "ShortName": "Porsche 911 GT3 Cup",
+  "DisplayName": "Porsche 911 GT3 Cup",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8300,
+  "DriverCarIdleRPM": 1840,
+  "DriverCarRedLine": 8400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

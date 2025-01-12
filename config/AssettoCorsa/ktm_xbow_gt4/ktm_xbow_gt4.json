@@ -1,0 +1,14 @@
+{
+  "CarPath": "ktm_xbow_gt4",
+  "CarName": "KTM XBOW GT4",
+  "ShortName": "KTM XBOW GT4",
+  "DisplayName": "KTM XBOW GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 2021,
+  "DriverCarRedLine": 6400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

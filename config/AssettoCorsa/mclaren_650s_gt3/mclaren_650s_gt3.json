@@ -1,0 +1,14 @@
+{
+  "CarPath": "mclaren_650s_gt3",
+  "CarName": "McLaren 650s GT3",
+  "ShortName": "McLaren 650s",
+  "DisplayName": "McLaren 650s GT3",
+  "DriverCarSLFirstRPM": 6300,
+  "DriverCarSLShiftRPM": 6900,
+  "DriverCarSLLastRPM": 9000,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1662,
+  "DriverCarRedLine": 7550,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

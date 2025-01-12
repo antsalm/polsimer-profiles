@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche_718_cayman_gt4_mr",
+  "CarName": "Porsche 718 Cayman GT4 Clubsport MR",
+  "ShortName": "Porsche 718 Cayman GT4",
+  "DisplayName": "Porsche 718 Cayman GT4",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7600,
+  "DriverCarIdleRPM": 1162,
+  "DriverCarRedLine": 7850,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

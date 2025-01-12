@@ -1,0 +1,14 @@
+{
+  "CarPath": "lexus_rc_f_gt3",
+  "CarName": "Lexus RC F GT3",
+  "ShortName": "Lexus RC F GT3",
+  "DisplayName": "Lexus RC F GT3",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 7900,
+  "DriverCarSLBlinkRPM": 7250,
+  "DriverCarIdleRPM": 2188,
+  "DriverCarRedLine": 7700,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

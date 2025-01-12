@@ -1,0 +1,14 @@
+{
+  "CarPath": "lamborghini_huracan_gt3",
+  "CarName": "Lamborghini Huracan GT3",
+  "ShortName": "Lamborghini GT3",
+  "DisplayName": "Lamborghini GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1730,
+  "DriverCarRedLine": 8000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

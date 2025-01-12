@@ -1,0 +1,14 @@
+{
+  "CarPath": "nissan_gt_r_gt3_2017",
+  "CarName": "Nissan GT R GT3",
+  "ShortName": "Nissan GT R GT3",
+  "DisplayName": "Nissan GT R GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7200,
+  "DriverCarIdleRPM": 1882,
+  "DriverCarRedLine": 7400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

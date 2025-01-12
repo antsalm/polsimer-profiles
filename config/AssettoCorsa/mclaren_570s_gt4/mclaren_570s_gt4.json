@@ -1,0 +1,14 @@
+{
+  "CarPath": "mclaren_570s_gt4",
+  "CarName": "McLaren 570s GT4",
+  "ShortName": "McLaren 570s GT4",
+  "DisplayName": "McLaren 570s GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8500,
+  "DriverCarIdleRPM": 1662,
+  "DriverCarRedLine": 7600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

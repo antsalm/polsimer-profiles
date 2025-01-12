@@ -1,0 +1,14 @@
+{
+  "CarPath": "mercedes_amg_gt4",
+  "CarName": "Mercedes-AMG GT4",
+  "ShortName": "Mercedes-AMG GT4",
+  "DisplayName": "Mercedes-AMG GT4",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 7900,
+  "DriverCarSLBlinkRPM": 6600,
+  "DriverCarIdleRPM": 1154,
+  "DriverCarRedLine": 6900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

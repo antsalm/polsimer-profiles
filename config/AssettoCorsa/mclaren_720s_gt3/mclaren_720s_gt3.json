@@ -1,0 +1,14 @@
+{
+  "CarPath": "mclaren_720s_gt3",
+  "CarName": "McLaren 720s GT3",
+  "ShortName": "McLaren 720s GT3",
+  "DisplayName": "McLaren 720s GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7100,
+  "DriverCarIdleRPM": 1877,
+  "DriverCarRedLine": 7700,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

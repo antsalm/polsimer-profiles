@@ -1,0 +1,14 @@
+{
+  "CarPath": "lamborghini_huracan_st",
+  "CarName": "Lamborghini Huracan ST",
+  "ShortName": "Lamborghini ST",
+  "DisplayName": "Lamborghini ST",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7900,
+  "DriverCarIdleRPM": 1730,
+  "DriverCarRedLine": 8200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

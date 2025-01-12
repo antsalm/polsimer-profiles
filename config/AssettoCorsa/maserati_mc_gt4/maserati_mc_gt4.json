@@ -1,0 +1,14 @@
+{
+  "CarPath": "maserati_mc_gt4",
+  "CarName": "Maserati MC GT4",
+  "ShortName": "Maserati MC GT4",
+  "DisplayName": "Maserati MC GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 6800,
+  "DriverCarIdleRPM": 2020,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

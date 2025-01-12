@@ -1,0 +1,14 @@
+{
+  "CarPath": "lamborghini_gallardo_rex",
+  "CarName": "Lamborghini Gallardo Rex",
+  "ShortName": "Lamborghini Gallardo Rex",
+  "DisplayName": "Lamborghini Gallardo Rex",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1730,
+  "DriverCarRedLine": 8400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

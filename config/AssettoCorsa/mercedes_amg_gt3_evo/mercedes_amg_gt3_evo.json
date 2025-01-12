@@ -1,0 +1,14 @@
+{
+  "CarPath": "mercedes_amg_gt3_evo",
+  "CarName": "Mercedes-AMG GT3 2020",
+  "ShortName": "Mercedes-AMG GT3 2020",
+  "DisplayName": "Mercedes-AMG GT3 2020",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 7900,
+  "DriverCarSLBlinkRPM": 7100,
+  "DriverCarIdleRPM": 2191,
+  "DriverCarRedLine": 7900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
