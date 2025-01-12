@@ -1,0 +1,84 @@
+[
+  {
+    "Name": "F1style",
+    "Colors": [
+      {
+        "Value": "#FF00FF00"
+      },
+      {
+        "Value": "#FF00FF00"
+      },
+      {
+        "Value": "#FF00FF00"
+      },
+      {
+        "Value": "#FF00FF00"
+      },
+      {
+        "Value": "#FFFF0000"
+      },
+      {
+        "Value": "#FFFF0000"
+      },
+      {
+        "Value": "#FFFF0000"
+      },
+      {
+        "Value": "#FFFF0000"
+      },
+      {
+        "Value": "#FF0066FF"
+      },
+      {
+        "Value": "#FF0066FF"
+      },
+      {
+        "Value": "#FF0066FF"
+      },
+      {
+        "Value": "#FF0066FF"
+      }
+    ]
+  },
+  {
+    "Name": "All",
+    "Colors": [
+      {
+        "Value": "#FFFF0000"
+      },
+      {
+        "Value": "#FFFF8000"
+      },
+      {
+        "Value": "#FFFFFF00"
+      },
+      {
+        "Value": "#FF80FF00"
+      },
+      {
+        "Value": "#FF00FF00"
+      },
+      {
+        "Value": "#FF00FF80"
+      },
+      {
+        "Value": "#FF00FFFF"
+      },
+      {
+        "Value": "#FF0080FF"
+      },
+      {
+        "Value": "#FF0000FF"
+      },
+      {
+        "Value": "#FF8000FF"
+      },
+      {
+        "Value": "#FFFF00FF"
+      },
+      {
+        "Value": "#FFFF0080"
+      }
+    ]
+  }
+]
