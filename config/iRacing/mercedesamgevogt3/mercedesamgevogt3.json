@@ -1,0 +1,26 @@
+{
+  "CarPath": "mercedesamgevogt3",
+  "CarName": "Mercedes-AMG GT3 2020",
+  "ShortName": "Mercedes-AMG GT3",
+  "DisplayName": "Mercedes-AMG GT3 2020",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 6800,
+  "DriverCarSLBlinkRPM": 8700,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 6880,
+  "ShiftPoints": {
+    "1": 6951,
+    "2": 6926,
+    "3": 6683,
+    "4": 6519,
+    "5": 6455
+  },
+  "SoundShift": {
+    "1": 6951,
+    "2": 6926,
+    "3": 6683,
+    "4": 6519,
+    "5": 6455
+  }
+}

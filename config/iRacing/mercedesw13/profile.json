@@ -1,0 +1,324 @@
+[
+  {
+    "Id": 0,
+    "Name": "default",
+    "Leds": [
+      {
+        "Id": 0,
+        "Color": [
+          "#006400"
+        ],
+        "Role": [
+          "DRS"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 0,
+            "Mode": null,
+            "Value": "DRSActive"
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "Color": [
+          "#006400",
+          "#006400",
+          "#006400"
+        ],
+        "Role": [
+          "DRS",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 0,
+            "Mode": null,
+            "Value": "DRSAvailable"
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Color": [
+          "#006400",
+          "#006400",
+          "#006400"
+        ],
+        "Role": [
+          "DRS",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 0,
+            "Mode": null,
+            "Value": "DRSOn"
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Color": [
+          "#006400"
+        ],
+        "Role": [
+          "DRS"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 0,
+            "Mode": null,
+            "Value": "DRSOn"
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Color": [
+          "#640000"
+        ],
+        "Role": [
+          "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              4925,
+              20000,
+              4925,
+              4400,
+              5665,
+              10250,
+              10560,
+              10845,
+              11400,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Color": [
+          "#640000",
+          "#640000",
+          "#640000"
+        ],
+        "Role": [
+          "RPM",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              6125,
+              20000,
+              6125,
+              5695,
+              6725,
+              10560,
+              10835,
+              11035,
+              11445,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "Color": [
+          "#640000",
+          "#640000",
+          "#640000"
+        ],
+        "Role": [
+          "RPM",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              7325,
+              20000,
+              7325,
+              6975,
+              7765,
+              10860,
+              11100,
+              11210,
+              11490,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 7,
+        "Color": [
+          "#640000"
+        ],
+        "Role": [
+          "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              8525,
+              20000,
+              8525,
+              8280,
+              8825,
+              11160,
+              11375,
+              11390,
+              11540,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 8,
+        "Color": [
+          "#640000"
+        ],
+        "Role": [
+          "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              9325,
+              20000,
+              9325,
+              9125,
+              9515,
+              11360,
+              11560,
+              11515,
+              11570,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 9,
+        "Color": [
+          "#FF0066FF",
+          "#FF0066FF",
+          "#FF0066FF"
+        ],
+        "Role": [
+          "RPM",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              10125,
+              20000,
+              10125,
+              9985,
+              10215,
+              11560,
+              11745,
+              11635,
+              11600,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 10,
+        "Color": [
+          "#FF0066FF",
+          "#FF0066FF",
+          "#FF0066FF"
+        ],
+        "Role": [
+          "RPM",
+          "PITA",
+          "PITB"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              10125,
+              20000,
+              10125,
+              9985,
+              10215,
+              11560,
+              11745,
+              11635,
+              11600,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 11,
+        "Color": [
+          "#FF0066FF"
+        ],
+        "Role": [
+          "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": [
+              10125,
+              20000,
+              10125,
+              9985,
+              10215,
+              11560,
+              11745,
+              11635,
+              11600,
+              20000
+            ],
+            "AllGear": 0,
+            "Mode": "IND",
+            "Value": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche919",
+  "CarName": "Porsche 919 2016",
+  "ShortName": "Porsche 919 2016",
+  "DisplayName": "Porsche 919 2016",
+  "DriverCarSLFirstRPM": 8500,
+  "DriverCarSLShiftRPM": 8800,
+  "DriverCarSLLastRPM": 8750,
+  "DriverCarSLBlinkRPM": 10000,
+  "DriverCarIdleRPM": 3000,
+  "DriverCarRedLine": 9000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

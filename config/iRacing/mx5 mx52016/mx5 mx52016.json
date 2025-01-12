@@ -1,0 +1,14 @@
+{
+  "CarPath": "mx5 mx52016",
+  "CarName": "Mazda MX-5 Cup",
+  "ShortName": "MX-5 Cup",
+  "DisplayName": "Mazda MX-5 Cup",
+  "DriverCarSLFirstRPM": 6000,
+  "DriverCarSLShiftRPM": 6850,
+  "DriverCarSLLastRPM": 6850,
+  "DriverCarSLBlinkRPM": 8000,
+  "DriverCarIdleRPM": 875,
+  "DriverCarRedLine": 6850,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

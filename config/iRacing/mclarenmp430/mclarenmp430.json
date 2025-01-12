@@ -1,0 +1,14 @@
+{
+  "CarPath": "mclarenmp430",
+  "CarName": "Mclaren MP4-30",
+  "ShortName": "Mclaren MP4-30",
+  "DisplayName": "Mclaren MP4-30",
+  "DriverCarSLFirstRPM": 10700,
+  "DriverCarSLShiftRPM": 12400,
+  "DriverCarSLLastRPM": 12400,
+  "DriverCarSLBlinkRPM": 20000,
+  "DriverCarIdleRPM": 3050,
+  "DriverCarRedLine": 12900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

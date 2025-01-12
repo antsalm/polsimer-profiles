@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche991rsr",
+  "CarName": "Porsche 991 RSR",
+  "ShortName": "Porsche 991 RSR",
+  "DisplayName": "Porsche 991 RSR",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1965,
+  "DriverCarRedLine": 9450,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

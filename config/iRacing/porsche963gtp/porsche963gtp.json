@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche963gtp",
+  "CarName": "Porsche 963 GTP",
+  "ShortName": "Porsche 963 GTP",
+  "DisplayName": "Porsche 963 GTP",
+  "DriverCarSLFirstRPM": 8500,
+  "DriverCarSLShiftRPM": 8800,
+  "DriverCarSLLastRPM": 8750,
+  "DriverCarSLBlinkRPM": 8010,
+  "DriverCarIdleRPM": 2800,
+  "DriverCarRedLine": 8173,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

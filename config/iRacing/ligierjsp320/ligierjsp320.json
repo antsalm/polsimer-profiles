@@ -1,0 +1,14 @@
+{
+  "CarPath": "ligierjsp320",
+  "CarName": "Ligier JS P320",
+  "ShortName": "Ligier LMP3",
+  "DisplayName": "Ligier JS P320",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 6890,
+  "DriverCarIdleRPM": 1420,
+  "DriverCarRedLine": 6977,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

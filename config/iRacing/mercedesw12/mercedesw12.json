@@ -1,0 +1,14 @@
+{
+  "CarPath": "mercedesw12",
+  "CarName": "Mercedes W12",
+  "ShortName": "Mercedes W12",
+  "DisplayName": "Mercedes W12",
+  "DriverCarSLFirstRPM": 10700,
+  "DriverCarSLShiftRPM": 12400,
+  "DriverCarSLLastRPM": 12400,
+  "DriverCarSLBlinkRPM": 20000,
+  "DriverCarIdleRPM": 4000,
+  "DriverCarRedLine": 13000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "lotus49",
+  "CarName": "Lotus 49",
+  "ShortName": "Lotus 49",
+  "DisplayName": "Lotus 49",
+  "DriverCarSLFirstRPM": 8500,
+  "DriverCarSLShiftRPM": 8900,
+  "DriverCarSLLastRPM": 9300,
+  "DriverCarSLBlinkRPM": 9500,
+  "DriverCarIdleRPM": 2000,
+  "DriverCarRedLine": 9500,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

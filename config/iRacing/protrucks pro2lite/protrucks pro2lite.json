@@ -1,0 +1,14 @@
+{
+  "CarPath": "protrucks pro2lite",
+  "CarName": "Lucas Oil Off Road Pro 2 Lite",
+  "ShortName": "Pro-2 Lite Truck",
+  "DisplayName": "Pro-2 Lite Truck",
+  "DriverCarSLFirstRPM": 5600,
+  "DriverCarSLShiftRPM": 6400,
+  "DriverCarSLLastRPM": 6400,
+  "DriverCarSLBlinkRPM": 9050,
+  "DriverCarIdleRPM": 900,
+  "DriverCarRedLine": 8600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

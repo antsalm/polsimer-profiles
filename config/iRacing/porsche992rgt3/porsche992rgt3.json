@@ -1,0 +1,14 @@
+{
+  "CarPath": "porsche992rgt3",
+  "CarName": "Porsche 911 GT3 R (992)",
+  "ShortName": "Porsche 911 GT3 R",
+  "DisplayName": "Porsche 911 GT3 R (992)",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 8785,
+  "DriverCarIdleRPM": 1747,
+  "DriverCarRedLine": 9454,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

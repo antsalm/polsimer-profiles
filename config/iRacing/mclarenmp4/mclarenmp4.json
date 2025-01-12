@@ -1,0 +1,14 @@
+{
+  "CarPath": "mclarenmp4",
+  "CarName": "McLaren MP4-12C GT3",
+  "ShortName": "McLaren MP4-12C",
+  "DisplayName": "McLaren MP4-12C GT3",
+  "DriverCarSLFirstRPM": 6300,
+  "DriverCarSLShiftRPM": 6900,
+  "DriverCarSLLastRPM": 7000,
+  "DriverCarSLBlinkRPM": 7100,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 7820,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
