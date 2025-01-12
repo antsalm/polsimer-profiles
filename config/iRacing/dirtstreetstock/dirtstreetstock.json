@@ -1,0 +1,14 @@
+{
+  "CarPath": "dirtstreetstock",
+  "CarName": "Street Stock",
+  "ShortName": "Street Stock",
+  "DisplayName": "Street Stock",
+  "DriverCarSLFirstRPM": 5500,
+  "DriverCarSLShiftRPM": 6500,
+  "DriverCarSLLastRPM": 6500,
+  "DriverCarSLBlinkRPM": 8200,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

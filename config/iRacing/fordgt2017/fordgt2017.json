@@ -1,0 +1,14 @@
+{
+  "CarPath": "fordgt2017",
+  "CarName": "Ford GT GTE",
+  "ShortName": "Ford GT GTE",
+  "DisplayName": "Ford GT GTE",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 7300,
+  "DriverCarIdleRPM": 1900,
+  "DriverCarRedLine": 7300,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

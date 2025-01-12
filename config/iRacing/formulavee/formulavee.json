@@ -1,0 +1,14 @@
+{
+  "CarPath": "formulavee",
+  "CarName": "Formula Vee",
+  "ShortName": "Formula Vee",
+  "DisplayName": "Formula Vee",
+  "DriverCarSLFirstRPM": 6600,
+  "DriverCarSLShiftRPM": 7250,
+  "DriverCarSLLastRPM": 7275,
+  "DriverCarSLBlinkRPM": 9300,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7390,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

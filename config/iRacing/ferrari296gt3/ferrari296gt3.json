@@ -1,0 +1,14 @@
+{
+  "CarPath": "ferrari296gt3",
+  "CarName": "Ferrari 296 GT3",
+  "ShortName": "Ferrari 296 GT3",
+  "DisplayName": "Ferrari 296 GT3",
+  "DriverCarSLFirstRPM": 6350,
+  "DriverCarSLShiftRPM": 6850,
+  "DriverCarSLLastRPM": 6950,
+  "DriverCarSLBlinkRPM": 8000,
+  "DriverCarIdleRPM": 2947,
+  "DriverCarRedLine": 8033,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

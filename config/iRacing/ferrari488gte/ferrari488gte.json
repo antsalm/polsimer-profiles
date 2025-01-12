@@ -1,0 +1,14 @@
+{
+  "CarPath": "ferrari488gte",
+  "CarName": "Ferrari 488 GTE",
+  "ShortName": "Ferrari 488 GTE",
+  "DisplayName": "Ferrari 488 GTE",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 6550,
+  "DriverCarIdleRPM": 2460,
+  "DriverCarRedLine": 7300,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

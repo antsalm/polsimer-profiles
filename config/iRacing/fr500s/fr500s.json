@@ -1,0 +1,14 @@
+{
+  "CarPath": "fr500s",
+  "CarName": "Ford Mustang FR500S",
+  "ShortName": "FR500S",
+  "DisplayName": "Ford Mustang FR500S",
+  "DriverCarSLFirstRPM": 5600,
+  "DriverCarSLShiftRPM": 6400,
+  "DriverCarSLLastRPM": 6400,
+  "DriverCarSLBlinkRPM": 6850,
+  "DriverCarIdleRPM": 900,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

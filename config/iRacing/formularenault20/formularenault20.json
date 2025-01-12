@@ -1,0 +1,14 @@
+{
+  "CarPath": "formularenault20",
+  "CarName": "Formula Renault 2.0",
+  "ShortName": "Renault 2.0",
+  "DisplayName": "Formula Renault 2.0",
+  "DriverCarSLFirstRPM": 6600,
+  "DriverCarSLShiftRPM": 7300,
+  "DriverCarSLLastRPM": 7300,
+  "DriverCarSLBlinkRPM": 7550,
+  "DriverCarIdleRPM": 2300,
+  "DriverCarRedLine": 7550,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

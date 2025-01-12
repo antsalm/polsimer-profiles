@@ -1,0 +1,14 @@
+{
+  "CarPath": "indypropm18",
+  "CarName": "Indy Pro 2000 PM-18",
+  "ShortName": "PM18",
+  "DisplayName": "Indy Pro 2000 PM-18",
+  "DriverCarSLFirstRPM": 9500,
+  "DriverCarSLShiftRPM": 11700,
+  "DriverCarSLLastRPM": 19969,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1800,
+  "DriverCarRedLine": 9184,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

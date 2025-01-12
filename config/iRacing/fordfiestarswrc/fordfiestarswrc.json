@@ -1,0 +1,14 @@
+{
+  "CarPath": "fordfiestarswrc",
+  "CarName": "Ford Fiesta RS WRC",
+  "ShortName": "Ford Fiesta RS",
+  "DisplayName": "Ford Fiesta RS WRC",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 7600,
+  "DriverCarSLLastRPM": 7600,
+  "DriverCarSLBlinkRPM": 7650,
+  "DriverCarIdleRPM": 2000,
+  "DriverCarRedLine": 8500,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

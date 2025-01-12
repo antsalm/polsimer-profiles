@@ -1,0 +1,14 @@
+{
+  "CarPath": "formulair04",
+  "CarName": "iRacing Formula IR-04",
+  "ShortName": "IR-04",
+  "DisplayName": "iRacing Formula IR-04",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7000,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7325,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

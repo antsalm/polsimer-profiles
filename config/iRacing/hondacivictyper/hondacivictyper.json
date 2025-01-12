@@ -1,0 +1,14 @@
+{
+  "CarPath": "hondacivictyper",
+  "CarName": "Honda Civic Type R",
+  "ShortName": "Honda Civic Type R",
+  "DisplayName": "Honda Civic Type R",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 6700,
+  "DriverCarIdleRPM": 1000,
+  "DriverCarRedLine": 6980,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "formularenault35",
+  "CarName": "Formula Renault 3.5",
+  "ShortName": "FR3.5",
+  "DisplayName": "Formula Renault 3.5",
+  "DriverCarSLFirstRPM": 7300,
+  "DriverCarSLShiftRPM": 7900,
+  "DriverCarSLLastRPM": 8700,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 2500,
+  "DriverCarRedLine": 9020,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

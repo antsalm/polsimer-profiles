@@ -1,0 +1,14 @@
+{
+  "CarPath": "fordgt",
+  "CarName": "Ford GT GT2",
+  "ShortName": "Ford GT GT2",
+  "DisplayName": "Ford GT GT2",
+  "DriverCarSLFirstRPM": 7100,
+  "DriverCarSLShiftRPM": 7400,
+  "DriverCarSLLastRPM": 7400,
+  "DriverCarSLBlinkRPM": 7800,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 7600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "hyundaivelostern",
+  "CarName": "Hyundai Veloster N TC",
+  "ShortName": "Hyundai Veloster N TC",
+  "DisplayName": "Hyundai Veloster N TC",
+  "DriverCarSLFirstRPM": 5750,
+  "DriverCarSLShiftRPM": 6250,
+  "DriverCarSLLastRPM": 6750,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1350,
+  "DriverCarRedLine": 6988,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

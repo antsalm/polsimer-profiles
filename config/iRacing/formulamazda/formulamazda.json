@@ -1,0 +1,14 @@
+{
+  "CarPath": "formulamazda",
+  "CarName": "Pro Mazda",
+  "ShortName": "Pro Mazda",
+  "DisplayName": "Pro Mazda",
+  "DriverCarSLFirstRPM": 8000,
+  "DriverCarSLShiftRPM": 8400,
+  "DriverCarSLLastRPM": 8400,
+  "DriverCarSLBlinkRPM": 8600,
+  "DriverCarIdleRPM": 1750,
+  "DriverCarRedLine": 8600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

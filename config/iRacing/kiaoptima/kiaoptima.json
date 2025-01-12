@@ -1,0 +1,14 @@
+{
+  "CarPath": "kiaoptima",
+  "CarName": "Kia Optima",
+  "ShortName": "Kia Optima",
+  "DisplayName": "Kia Optima",
+  "DriverCarSLFirstRPM": 5750,
+  "DriverCarSLShiftRPM": 6250,
+  "DriverCarSLLastRPM": 6750,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 7700,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
