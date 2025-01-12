@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmwm8gte",
+  "CarName": "BMW M8 GTE",
+  "ShortName": "BMW M8 GTE",
+  "DisplayName": "BMW M8 GTE",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 6800,
+  "DriverCarSLBlinkRPM": 7500,
+  "DriverCarIdleRPM": 1300,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

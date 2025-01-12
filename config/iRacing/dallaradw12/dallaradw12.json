@@ -1,0 +1,14 @@
+{
+  "CarPath": "dallaradw12",
+  "CarName": "Dallara DW12",
+  "ShortName": "DW12",
+  "DisplayName": "Dallara DW12",
+  "DriverCarSLFirstRPM": 9500,
+  "DriverCarSLShiftRPM": 11700,
+  "DriverCarSLLastRPM": 11825,
+  "DriverCarSLBlinkRPM": 11650,
+  "DriverCarIdleRPM": 3000,
+  "DriverCarRedLine": 12010,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

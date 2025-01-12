@@ -1,0 +1,14 @@
+{
+  "CarPath": "audirs3lms",
+  "CarName": "Audi RS 3 LMS TCR",
+  "ShortName": "Audi RS 3 LMS",
+  "DisplayName": "Audi RS 3 LMS TCR",
+  "DriverCarSLFirstRPM": 5300,
+  "DriverCarSLShiftRPM": 6700,
+  "DriverCarSLLastRPM": 6500,
+  "DriverCarSLBlinkRPM": 7000,
+  "DriverCarIdleRPM": 800,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "c8rvettegte",
+  "CarName": "Chevrolet Corvette C8.R GTE",
+  "ShortName": "Chevrolet Corvette GTE",
+  "DisplayName": "Chevrolet Corvette C8.R GTE",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 7200,
+  "DriverCarIdleRPM": 2117,
+  "DriverCarRedLine": 6900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

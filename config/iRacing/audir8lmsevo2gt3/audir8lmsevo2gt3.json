@@ -1,0 +1,14 @@
+{
+  "CarPath": "audir8lmsevo2gt3",
+  "CarName": "Audi R8 LMS EVO II GT3",
+  "ShortName": "Audi R8 LMS EVO",
+  "DisplayName": "Audi R8 LMS EVO II GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8150,
+  "DriverCarIdleRPM": 1250,
+  "DriverCarRedLine": 8400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

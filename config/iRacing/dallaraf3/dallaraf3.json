@@ -1,0 +1,14 @@
+{
+  "CarPath": "dallaraf3",
+  "CarName": "Dallara F312 F3",
+  "ShortName": "Dallara F3",
+  "DisplayName": "Dallara F312 F3",
+  "DriverCarSLFirstRPM": 6600,
+  "DriverCarSLShiftRPM": 7250,
+  "DriverCarSLLastRPM": 7275,
+  "DriverCarSLBlinkRPM": 7300,
+  "DriverCarIdleRPM": 2000,
+  "DriverCarRedLine": 7350,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

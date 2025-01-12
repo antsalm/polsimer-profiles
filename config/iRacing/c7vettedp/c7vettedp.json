@@ -1,0 +1,14 @@
+{
+  "CarPath": "c7vettedp",
+  "CarName": "Corvette C7 Daytona Prototype",
+  "ShortName": "Corvette C7 DP",
+  "DisplayName": "Corvette C7 Daytona Prototype",
+  "DriverCarSLFirstRPM": 6700,
+  "DriverCarSLShiftRPM": 7000,
+  "DriverCarSLLastRPM": 7000,
+  "DriverCarSLBlinkRPM": 7100,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

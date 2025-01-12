@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmwm4evogt4",
+  "CarName": "BMW M4 G82 GT4",
+  "ShortName": "BMW M4 GT4",
+  "DisplayName": "BMW M4 G82 GT4",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7455,
+  "DriverCarIdleRPM": 750,
+  "DriverCarRedLine": 7503,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

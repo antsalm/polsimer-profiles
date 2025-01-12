@@ -1,0 +1,14 @@
+{
+  "CarPath": "audi90gto",
+  "CarName": "Audi 90 Quattro GTO",
+  "ShortName": "Audi 90 GTO",
+  "DisplayName": "Audi 90 Quattro GTO",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 7600,
+  "DriverCarSLLastRPM": 7600,
+  "DriverCarSLBlinkRPM": 7650,
+  "DriverCarIdleRPM": 1300,
+  "DriverCarRedLine": 7700,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

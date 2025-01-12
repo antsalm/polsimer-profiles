@@ -1,0 +1,14 @@
+{
+  "CarPath": "dallarair01",
+  "CarName": "Dallara 01",
+  "ShortName": "IR01",
+  "DisplayName": "Dallara 01",
+  "DriverCarSLFirstRPM": 9500,
+  "DriverCarSLShiftRPM": 11700,
+  "DriverCarSLLastRPM": 19969,
+  "DriverCarSLBlinkRPM": 20000,
+  "DriverCarIdleRPM": 3388,
+  "DriverCarRedLine": 19969,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

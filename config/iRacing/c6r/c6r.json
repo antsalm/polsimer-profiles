@@ -1,0 +1,14 @@
+{
+  "CarPath": "c6r",
+  "CarName": "Chevrolet Corvette C6R GT1",
+  "ShortName": "C6R",
+  "DisplayName": "Chevrolet Corvette C6R GT1",
+  "DriverCarSLFirstRPM": 4700,
+  "DriverCarSLShiftRPM": 5700,
+  "DriverCarSLLastRPM": 6000,
+  "DriverCarSLBlinkRPM": 6200,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 6200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

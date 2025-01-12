@@ -1,0 +1,14 @@
+{
+  "CarPath": "cadillacctsvr",
+  "CarName": "Cadillac CTS-V Racecar",
+  "ShortName": "CTS-V",
+  "DisplayName": "Cadillac CTS-V Racecar",
+  "DriverCarSLFirstRPM": 6600,
+  "DriverCarSLShiftRPM": 7400,
+  "DriverCarSLLastRPM": 7300,
+  "DriverCarSLBlinkRPM": 8000,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 7900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

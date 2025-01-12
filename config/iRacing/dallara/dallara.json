@@ -1,0 +1,14 @@
+{
+  "CarPath": "dallara",
+  "CarName": "Indycar Dallara - 2009",
+  "ShortName": "Indycar 2009",
+  "DisplayName": "Indycar Dallara - 2009",
+  "DriverCarSLFirstRPM": 9500,
+  "DriverCarSLShiftRPM": 11700,
+  "DriverCarSLLastRPM": 11825,
+  "DriverCarSLBlinkRPM": 10250,
+  "DriverCarIdleRPM": 3000,
+  "DriverCarRedLine": 10350,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

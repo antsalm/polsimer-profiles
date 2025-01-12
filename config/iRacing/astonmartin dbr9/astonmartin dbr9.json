@@ -1,0 +1,14 @@
+{
+  "CarPath": "astonmartin dbr9",
+  "CarName": "Aston Martin DBR9 GT1",
+  "ShortName": "AM DBR9 GT1",
+  "DisplayName": "Aston Martin DBR9 GT1",
+  "DriverCarSLFirstRPM": 6000,
+  "DriverCarSLShiftRPM": 7000,
+  "DriverCarSLLastRPM": 7500,
+  "DriverCarSLBlinkRPM": 7550,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 7600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

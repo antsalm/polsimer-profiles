@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmwlmdh",
+  "CarName": "BMW M Hybrid V8",
+  "ShortName": "BMW M Hybrid V8",
+  "DisplayName": "BMW M Hybrid V8",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 2500,
+  "DriverCarRedLine": 7900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

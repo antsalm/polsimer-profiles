@@ -1,0 +1,14 @@
+{
+  "CarPath": "dallarap217",
+  "CarName": "Dallara P217",
+  "ShortName": "Dallara P217",
+  "DisplayName": "Dallara P217",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 2400,
+  "DriverCarRedLine": 8000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

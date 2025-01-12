@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmwm2csr",
+  "CarName": "BMW M2 CS Racing",
+  "ShortName": "BMW M2",
+  "DisplayName": "BMW M2 CS Racing",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 10000,
+  "DriverCarIdleRPM": 950,
+  "DriverCarRedLine": 7520,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmwm4gt3",
+  "CarName": "BMW M4 GT3",
+  "ShortName": "BMW M4 GT3",
+  "DisplayName": "BMW M4 GT3",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7050,
+  "DriverCarIdleRPM": 1479,
+  "DriverCarRedLine": 6974,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

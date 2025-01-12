@@ -1,0 +1,14 @@
+{
+  "CarPath": "audir8gt3",
+  "CarName": "Audi R8 LMS",
+  "ShortName": "Audi R8 LMS",
+  "DisplayName": "Audi R8 LMS",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 8000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
