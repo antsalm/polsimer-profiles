@@ -1,0 +1,14 @@
+{
+  "CarPath": "alpine_a110_gt4",
+  "CarName": "Alpine A110 GT4",
+  "ShortName": "Alpine A110 GT4",
+  "DisplayName": "Alpine A110 GT4",
+  "DriverCarSLFirstRPM": 5000,
+  "DriverCarSLShiftRPM": 6200,
+  "DriverCarSLLastRPM": 6400,
+  "DriverCarSLBlinkRPM": 6300,
+  "DriverCarIdleRPM": 2022,
+  "DriverCarRedLine": 6450,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

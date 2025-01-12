@@ -1,0 +1,14 @@
+{
+  "CarPath": "amr_v8_vantage_gt3",
+  "CarName": "AMR V8 Vantage GT3",
+  "ShortName": "AMR V8 Vantage GT3",
+  "DisplayName": "AMR V8 Vantage GT3",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 6600,
+  "DriverCarSLLastRPM": 7900,
+  "DriverCarSLBlinkRPM": 7000,
+  "DriverCarIdleRPM": 1885,
+  "DriverCarRedLine": 7200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

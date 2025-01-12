@@ -1,0 +1,14 @@
+{
+  "CarPath": "audi_r8_gt4",
+  "CarName": "Audi R8 GT4",
+  "ShortName": "Audi R8 GT4",
+  "DisplayName": "Audi R8 GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8500,
+  "DriverCarIdleRPM": 1159,
+  "DriverCarRedLine": 8600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

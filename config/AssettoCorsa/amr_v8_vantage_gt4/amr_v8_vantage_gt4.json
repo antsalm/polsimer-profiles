@@ -1,0 +1,14 @@
+{
+  "CarPath": "amr_v8_vantage_gt4",
+  "CarName": "Aston Martin V8 Vantage GT4",
+  "ShortName": "Aston Martin V8 GT4",
+  "DisplayName": "Aston Martin V8 Vantage GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 6900,
+  "DriverCarIdleRPM": 1160,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
