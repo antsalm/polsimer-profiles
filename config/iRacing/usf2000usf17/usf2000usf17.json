@@ -1,0 +1,14 @@
+{
+  "CarPath": "usf2000usf17",
+  "CarName": "Tatuus USF-17",
+  "ShortName": "USF2000",
+  "DisplayName": "Tatuus USF-17",
+  "DriverCarSLFirstRPM": 9500,
+  "DriverCarSLShiftRPM": 11700,
+  "DriverCarSLLastRPM": 19969,
+  "DriverCarSLBlinkRPM": 7000,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7113,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

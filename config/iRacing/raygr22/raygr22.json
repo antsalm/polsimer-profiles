@@ -1,0 +1,14 @@
+{
+  "CarPath": "raygr22",
+  "CarName": "Ray Formula 1600",
+  "ShortName": "Ray Formula 1600",
+  "DisplayName": "Ray Formula 1600",
+  "DriverCarSLFirstRPM": 6600,
+  "DriverCarSLShiftRPM": 7250,
+  "DriverCarSLLastRPM": 7275,
+  "DriverCarSLBlinkRPM": 9300,
+  "DriverCarIdleRPM": 820,
+  "DriverCarRedLine": 7395,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "rufrt12r track",
+  "CarName": "RUF RT 12R Track",
+  "ShortName": "RUF RT 12R Track",
+  "DisplayName": "RUF RT 12R Track",
+  "DriverCarSLFirstRPM": 8200,
+  "DriverCarSLShiftRPM": 8800,
+  "DriverCarSLLastRPM": 9100,
+  "DriverCarSLBlinkRPM": 9350,
+  "DriverCarIdleRPM": 1400,
+  "DriverCarRedLine": 9400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

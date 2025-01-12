@@ -1,0 +1,14 @@
+{
+  "CarPath": "toyotagr86",
+  "CarName": "Toyota GR86",
+  "ShortName": "Toyota GR86",
+  "DisplayName": "Toyota GR86",
+  "DriverCarSLFirstRPM": 6100,
+  "DriverCarSLShiftRPM": 6550,
+  "DriverCarSLLastRPM": 6475,
+  "DriverCarSLBlinkRPM": 9900,
+  "DriverCarIdleRPM": 1000,
+  "DriverCarRedLine": 7483,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

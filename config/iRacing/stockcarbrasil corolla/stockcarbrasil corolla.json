@@ -1,0 +1,14 @@
+{
+  "CarPath": "stockcarbrasil corolla",
+  "CarName": "Stock Car Pro Toyota Corolla",
+  "ShortName": "Stock Car Pro Toyota Corolla",
+  "DisplayName": "Stock Car Pro Toyota Corolla",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7500,
+  "DriverCarIdleRPM": 1250,
+  "DriverCarRedLine": 6192,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

@@ -1,0 +1,14 @@
+{
+  "CarPath": "radicalsr10",
+  "CarName": "Radical SR10",
+  "ShortName": "Radical SR10",
+  "DisplayName": "Radical SR10",
+  "DriverCarSLFirstRPM": 8500,
+  "DriverCarSLShiftRPM": 10000,
+  "DriverCarSLLastRPM": 10300,
+  "DriverCarSLBlinkRPM": 10750,
+  "DriverCarIdleRPM": 1200,
+  "DriverCarRedLine": 7234,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

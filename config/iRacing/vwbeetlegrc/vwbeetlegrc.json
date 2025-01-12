@@ -1,0 +1,14 @@
+{
+  "CarPath": "vwbeetlegrc",
+  "CarName": "Volkswagen Beetle GRC",
+  "ShortName": "VW Beetle GRC",
+  "DisplayName": "Volkswagen Beetle GRC",
+  "DriverCarSLFirstRPM": 6200,
+  "DriverCarSLShiftRPM": 7600,
+  "DriverCarSLLastRPM": 7600,
+  "DriverCarSLBlinkRPM": 7650,
+  "DriverCarIdleRPM": 2000,
+  "DriverCarRedLine": 8500,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

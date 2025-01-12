@@ -1,0 +1,14 @@
+{
+  "CarPath": "subaruwrxsti",
+  "CarName": "Subaru WRX STI",
+  "ShortName": "Subaru WRX STI",
+  "DisplayName": "Subaru WRX STI",
+  "DriverCarSLFirstRPM": 6000,
+  "DriverCarSLShiftRPM": 6850,
+  "DriverCarSLLastRPM": 6850,
+  "DriverCarSLBlinkRPM": 7000,
+  "DriverCarIdleRPM": 875,
+  "DriverCarRedLine": 6850,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

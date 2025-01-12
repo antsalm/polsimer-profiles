@@ -1,0 +1,14 @@
+{
+  "CarPath": "williamsfw31",
+  "CarName": "Williams-Toyota FW31",
+  "ShortName": "Williams FW31",
+  "DisplayName": "Williams-Toyota FW31",
+  "DriverCarSLFirstRPM": 18970,
+  "DriverCarSLShiftRPM": 18980,
+  "DriverCarSLLastRPM": 18990,
+  "DriverCarSLBlinkRPM": 19000,
+  "DriverCarIdleRPM": 4050,
+  "DriverCarRedLine": 19000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

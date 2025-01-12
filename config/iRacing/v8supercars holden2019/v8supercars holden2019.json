@@ -1,0 +1,14 @@
+{
+  "CarPath": "v8supercars holden2019",
+  "CarName": "Holden ZB Commodore 2019",
+  "ShortName": "V8 Holden",
+  "DisplayName": "Holden ZB Commodore",
+  "DriverCarSLFirstRPM": 5600,
+  "DriverCarSLShiftRPM": 6400,
+  "DriverCarSLLastRPM": 6400,
+  "DriverCarSLBlinkRPM": 7250,
+  "DriverCarIdleRPM": 900,
+  "DriverCarRedLine": 8000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

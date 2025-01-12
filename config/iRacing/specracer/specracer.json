@@ -1,0 +1,14 @@
+{
+  "CarPath": "specracer",
+  "CarName": "SCCA Spec Racer Ford",
+  "ShortName": "Spec Racer Ford",
+  "DisplayName": "SCCA Spec Racer Ford",
+  "DriverCarSLFirstRPM": 5900,
+  "DriverCarSLShiftRPM": 6700,
+  "DriverCarSLLastRPM": 6700,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1100,
+  "DriverCarRedLine": 6750,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

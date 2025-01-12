@@ -1,0 +1,14 @@
+{
+  "CarPath": "stockcarbrasil cruze",
+  "CarName": "Stock Car Pro Chevrolet Cruze",
+  "ShortName": "Stock Car Pro Chevrolet Cruze",
+  "DisplayName": "Stock Car Pro Chevrolet Cruze",
+  "DriverCarSLFirstRPM": 6800,
+  "DriverCarSLShiftRPM": 8100,
+  "DriverCarSLLastRPM": 8150,
+  "DriverCarSLBlinkRPM": 7500,
+  "DriverCarIdleRPM": 1250,
+  "DriverCarRedLine": 6192,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

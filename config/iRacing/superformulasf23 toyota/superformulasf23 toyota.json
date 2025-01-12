@@ -1,0 +1,14 @@
+{
+  "CarPath": "superformulasf23 toyota",
+  "CarName": "Super Formula SF23 Toyota",
+  "ShortName": "Super Formula",
+  "DisplayName": "Super Formula SF23 Toyota",
+  "DriverCarSLFirstRPM": 4300,
+  "DriverCarSLShiftRPM": 4700,
+  "DriverCarSLLastRPM": 4715,
+  "DriverCarSLBlinkRPM": 10000,
+  "DriverCarIdleRPM": 2800,
+  "DriverCarRedLine": 9350,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
