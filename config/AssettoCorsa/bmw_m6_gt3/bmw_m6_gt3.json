@@ -1,0 +1,14 @@
+{
+  "CarPath": "bmw_m6_gt3",
+  "CarName": "BMW M6 GT3",
+  "ShortName": "BMW M6 GT3",
+  "DisplayName": "BMW M6 GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 6350,
+  "DriverCarIdleRPM": 2021,
+  "DriverCarRedLine": 7000,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

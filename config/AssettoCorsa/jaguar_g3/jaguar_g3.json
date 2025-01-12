@@ -1,0 +1,14 @@
+{
+  "CarPath": "jaguar_g3",
+  "CarName": "Jaguar G3",
+  "ShortName": "Jaguar G3",
+  "DisplayName": "Jaguar G3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8100,
+  "DriverCarIdleRPM": 2020,
+  "DriverCarRedLine": 8500,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

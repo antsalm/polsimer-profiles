@@ -1,0 +1,14 @@
+{
+  "CarPath": "ferrari_488_gt3",
+  "CarName": "Ferrari 488 GT3",
+  "ShortName": "Ferrari 488 GT3",
+  "DisplayName": "Ferrari 488 GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7250,
+  "DriverCarIdleRPM": 2099,
+  "DriverCarRedLine": 7350,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

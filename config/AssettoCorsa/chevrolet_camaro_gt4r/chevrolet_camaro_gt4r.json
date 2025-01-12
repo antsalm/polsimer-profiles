@@ -1,0 +1,14 @@
+{
+  "CarPath": "chevrolet_camaro_gt4r",
+  "CarName": "Chevrolet Camaro GT4R",
+  "ShortName": "Chevrolet Camaro GT4R",
+  "DisplayName": "Chevrolet Camaro GT4R",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1283,
+  "DriverCarRedLine": 7400,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

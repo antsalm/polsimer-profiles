@@ -1,0 +1,14 @@
+{
+  "CarPath": "honda_nsx_gt3_evo",
+  "CarName": "Honda NSX GT3 EVO",
+  "ShortName": "Honda NSX GT3 EVO",
+  "DisplayName": "Honda NSX GT3 EVO",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7200,
+  "DriverCarIdleRPM": 2158,
+  "DriverCarRedLine": 7600,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

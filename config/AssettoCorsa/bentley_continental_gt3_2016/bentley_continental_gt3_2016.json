@@ -1,0 +1,14 @@
+{
+  "CarPath": "bentley_continental_gt3_2016",
+  "CarName": "Bentley Continental GT3",
+  "ShortName": "Bentley Continental GT3",
+  "DisplayName": "Bentley Continental GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7100,
+  "DriverCarIdleRPM": 2020,
+  "DriverCarRedLine": 7300,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}

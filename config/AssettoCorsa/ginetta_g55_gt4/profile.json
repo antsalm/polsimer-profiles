@@ -1,0 +1,230 @@
+[
+  {
+    "Id": 0,
+    "Name": "default",
+    "Leds": [
+      {
+        "Id": 0,
+        "Color": [
+          "#FF0066FF",
+	  "#FF0066FF"         
+        ],
+        "Role": [
+          "PITA",
+	  "PITB"
+        ],
+        "RoleParam": []
+      },
+      {
+        "Id": 1,
+        "Color": [ ],
+        "Role": [""],
+        "RoleParam": [ ]
+      },
+      {
+        "Id": 2,
+        "Color": [
+          "#006400",
+	  "#640000"
+        ],
+        "Role": [
+          "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [          
+	{
+            "Gears": null,
+            "AllGear": 6300,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+	]
+      },
+      {
+        "Id": 3,
+        "Color": [
+          "#006400",
+	  "#640000"
+        ],
+        "Role": [
+          "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6500,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Color": [
+          "#FFFFFF00",
+	  "#640000"
+        ],
+        "Role": [
+          "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6700,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Color": [
+	  "#640000"
+        ],
+        "Role": [
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "Color": [
+          "#640000"
+        ],
+        "Role": [
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 7,
+        "Color": [
+	  "#FFFFFF00",
+	  "#640000"
+        ],
+        "Role": [
+	  "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6700,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 8,
+        "Color": [
+          "#006400",
+	  "#640000"
+        ],
+        "Role": [
+          "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [
+          {
+            "Gears": null,
+            "AllGear": 6500,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+        ]
+      },
+      
+      {
+        "Id": 9,
+        "Color": [
+          "#006400",
+	  "#640000"
+        ],
+        "Role": [
+          "RPM",
+	  "RPM"
+        ],
+        "RoleParam": [         
+	{
+            "Gears": null,
+            "AllGear": 6300,
+            "Mode": "ALL",
+            "Value": null
+          },
+          {
+            "Gears": null,
+            "AllGear": 6900,
+            "Mode": "ALL",
+            "Value": null
+          }
+	]
+      },
+      {
+        "Id": 10,
+        "Color": [],
+        "Role": [""],
+        "RoleParam": [ ]
+      },
+      {
+        "Id": 11,
+        "Color": [
+	  "#FF0066FF",
+	  "#FF0066FF"
+        ],
+        "Role": [
+	  "PITA",
+	  "PITB"
+        ],
+        "RoleParam": [ ]
+      }
+      
+    ]
+  }
+]

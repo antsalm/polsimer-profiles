@@ -1,0 +1,14 @@
+{
+  "CarPath": "ginetta_g55_gt4",
+  "CarName": "Ginetta G55 GT4",
+  "ShortName": "Ginetta G55 GT4",
+  "DisplayName": "Ginetta G55 GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 9000,
+  "DriverCarIdleRPM": 1221,
+  "DriverCarRedLine": 7200,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
