@@ -1,0 +1,14 @@
+{
+  "CarPath": "fordmustanggt3",
+  "CarName": "Ford Mustang GT3",
+  "ShortName": "Ford Mustang GT3",
+  "DisplayName": "Ford Mustang GT3",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8000,
+  "DriverCarIdleRPM": 1482,
+  "DriverCarRedLine": 8245,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
