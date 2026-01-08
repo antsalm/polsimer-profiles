@@ -1,0 +1,14 @@
+{
+  "CarPath": "ferrari296challenge",
+  "CarName": "Ferrari 296 Challenge",
+  "ShortName": "Ferrari 296 Challenge",
+  "DisplayName": "Ferrari 296 Challenge",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 10000,
+  "DriverCarIdleRPM": 1598,
+  "DriverCarRedLine": 8549,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
