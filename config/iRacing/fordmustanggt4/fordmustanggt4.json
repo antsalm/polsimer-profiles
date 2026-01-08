@@ -1,0 +1,14 @@
+{
+  "CarPath": "fordmustanggt4",
+  "CarName": "Ford Mustang GT4",
+  "ShortName": "Ford Mustang GT4",
+  "DisplayName": "Ford Mustang GT4",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 10000,
+  "DriverCarIdleRPM": 1722,
+  "DriverCarRedLine": 7553,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
