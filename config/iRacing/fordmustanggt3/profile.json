@@ -1,0 +1,210 @@
+[
+  {
+    "Id": 0,
+    "Name": "default",
+    "Leds": [
+      {
+        "Id": 0,
+        "Color": [""],
+        "Role": [""],
+        "RoleParam": []
+      },
+      {
+        "Id": 1,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7200, 7200, 7200, 7200, 7200, 7200],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7400, 7400, 7400, 7400, 7400, 7400],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7600, 7600,7600, 7600, 7600, 7600],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Color": ["#FF00FF00", "#FF0066FF"],
+        "Role": ["RPM", "RPM"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7800, 7800, 7800, 7800, 7800, 7800],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Color": ["#FF0066FF", "#FF0066FF"],
+        "Role": ["RPM", "RPM"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 7999, 7999, 7999, 7999, 7999, 7999, 7999],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "Color": ["#FF0066FF", "#FF0066FF"],
+        "Role": ["RPM", "RPM"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 7999, 7999, 7999, 7999, 7999, 7999, 7999],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 7,
+        "Color": ["#FF00FF00", "#FF0066FF"],
+        "Role": ["RPM", "RPM"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7800, 7800, 7800, 7800, 7800, 7800],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 8,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7600, 7600,7600, 7600, 7600, 7600],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 9,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7400, 7400, 7400, 7400, 7400, 7400],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 10,
+        "Color": ["#FF00FF00", "#FF0066FF", "#FFFFFFFF"],
+        "Role": ["RPM", "RPM", "PITA"],
+        "RoleParam": [
+          {
+            "Gears": [10000, 10000, 7200, 7200, 7200, 7200, 7200, 7200],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [10000, 10000, 8000, 8000, 8000, 8000, 8000, 8000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 11,
+        "Color": [""],
+        "Role": [""],
+        "RoleParam": []
+      }
+    ]
+  }
+]
