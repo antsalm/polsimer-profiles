@@ -1,0 +1,238 @@
+[
+  {
+    "Id": 0,
+    "Name": "default",
+    "Leds": [
+      {
+        "Id": 0,
+        "Color": ["#006400","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7000,7000,1400,2800,5200,6700,7600,8600],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]      
+      },
+      {
+        "Id": 1,
+        "Color": ["#006400","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7400,7400,1500,4150,6000,7150,7850,8700],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "Color": ["#FFFFE600","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7600,7600,2000,4825,6400,7377,7979,8750],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 3,
+        "Color": ["#FFFFE600","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8000,8000,4365,6175,7200,7828,8225,8850],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 4,
+        "Color": ["#640000","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8200,8200,5540,6850,7600,8050,8350,8900],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 5,
+        "Color": ["#640000","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8400,8400,6720,7525,8000,8275,8475,8950],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "Color": ["#640000","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8400,8400,6720,7525,8000,8275,8475,8950],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 7,
+        "Color": ["#640000","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8200,8200,5540,6850,7600,8050,8350,8900],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 8,
+        "Color": ["#FFFFE600","#FF00FFFF"],
+        "Role": ["RPM","RPM"],
+        "RoleParam": [
+          {
+            "Gears": [8000,8000,4365,6175,7200,7828,8225,8850],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      
+      {
+        "Id": 9,
+        "Color": ["#FFFFE600","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7600,7600,2000,4825,6400,7377,7979,8750],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 10,
+        "Color": ["#006400","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7400,7400,1500,4150,6000,7150,7850,8700],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      },
+      {
+        "Id": 11,
+        "Color": ["#006400","#FF00FFFF","#006400","#006400"],
+        "Role": ["RPM","RPM","PITA","PITB"],
+        "RoleParam": [
+          {
+            "Gears": [7000,7000,1400,2800,5200,6700,7600,8600],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          },
+          {
+            "Gears": [8600,8600,7900,8200,8400,8500,8600,9000],
+            "AllGear": 0,
+            "Mode": "null",
+            "Value": null
+          }
+        ]
+      }
+      
+    ]
+  }
+]
