@@ -1,0 +1,14 @@
+{
+  "CarPath": "acuransxevo22gt3",
+  "CarName": "Acura NSX GT3 EVO 22",
+  "ShortName": "Acura NSX GT3 EVO",
+  "DisplayName": "Acura NSX GT3 EVO 22",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7455,
+  "DriverCarIdleRPM": 1750,
+  "DriverCarRedLine": 7492,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
