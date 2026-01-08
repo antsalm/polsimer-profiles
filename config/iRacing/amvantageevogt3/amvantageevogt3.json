@@ -1,0 +1,14 @@
+{
+  "CarPath": "amvantageevogt3",
+  "CarName": "Aston Martin Vantage GT3 EVO",
+  "ShortName": "Aston Martin Vantage GT3 EVO",
+  "DisplayName": "Aston Martin Vantage GT3 EVO",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 6980,
+  "DriverCarIdleRPM": 1975,
+  "DriverCarRedLine": 7030,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
