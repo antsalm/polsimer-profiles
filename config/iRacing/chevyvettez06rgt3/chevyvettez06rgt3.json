@@ -1,0 +1,14 @@
+{
+  "CarPath": "chevyvettez06rgt3",
+  "CarName": "Chevrolet Corvette Z06 GT3.R",
+  "ShortName": "Chevrolet Corvette GT3.R",
+  "DisplayName": "Chevrolet Corvette Z06 GT3.R",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 7675,
+  "DriverCarIdleRPM": 1947,
+  "DriverCarRedLine": 8030,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
