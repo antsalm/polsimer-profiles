@@ -1,0 +1,14 @@
+{
+  "CarPath": "ferrari499p",
+  "CarName": "Ferrari 499P",
+  "ShortName": "Ferrari 499P",
+  "DisplayName": "Ferrari 499P",
+  "DriverCarSLFirstRPM": 7000,
+  "DriverCarSLShiftRPM": 7750,
+  "DriverCarSLLastRPM": 7800,
+  "DriverCarSLBlinkRPM": 8150,
+  "DriverCarIdleRPM": 3500,
+  "DriverCarRedLine": 7900,
+  "ShiftPoints": {},
+  "SoundShift": {}
+}
